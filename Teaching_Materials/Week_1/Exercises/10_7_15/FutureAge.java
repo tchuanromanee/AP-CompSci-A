@@ -20,7 +20,7 @@ main(args)
   
    public static void main(String [] args)
    {
-      int age; //declare age
+      int age; // Declare age
       age = 27;
       int oldAge = age + 5;
       System.out.println( oldAge);
